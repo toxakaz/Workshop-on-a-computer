@@ -1,0 +1,3 @@
+Single:	waiting for server response before sending next
+First:	100 requests 3 times per second
+Second: 100 requests 2 times per second
