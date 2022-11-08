@@ -1,17 +1,17 @@
-Репозиторий с проектами, реализованными в качестве домашней работы по курсу “практикум на ЭВМ”.
+This repository contains homework completed on the university course “Workshop on a computer”.
 
-Описание директорий:
+Description of directories:
 
-Solutions_1_semester – работы, выполненные на языке C, задания на понимание деревьев, хэш-таблиц.
+Solutions_1_semester - C language, tasks for understanding trees, hash tables.
 
-Solutions_2_semester – работы, выполненные на C#, включают в себя задания по иерархии классов, дженерикам, плагинам, пониманию ООП.
+Solutions_2_semester - C# language, class hierarchy, generics, plugins, understanding OOP.
 
-Solutions_3_semester - работы, выполненные на C#, включают в себя задания на понимание многопоточности.
+Solutions_3_semester - C# language, understand multithreading and parallel programming.
 
-Некоторые интересные проекты:
+Some interesting projects:
 
-Solutions_2_semester\Task3 – умение работать с ООП, составление UML диаграммы классов.
+Solutions_2_semester\Task3 - OOP, drawing up a UML class diagram.
 
-Solutions_3_semester\Task2 – MPI.
+Solutions_3_semester\Task2 - MPI.
 
-Solutions_3_semester\Task7 – клиент-серверное приложение, реализующее возможность клиенту использовать набор фильтров, подключаемых к серверу с помощью конфигурационных файлов.
+Solutions_3_semester\Task7 - client-server application that allows the client to use a set of image filters pluggined to the server using configuration files.
